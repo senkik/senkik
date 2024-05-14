@@ -3,7 +3,6 @@
 -  I’m currently learning statistics and data science
 -  I’m looking to collaborate on data related projects 
 - 📫 How to reach me lorenzokibet105@gmail.com
-       +254758629738
 
 <!---
 senkik/senkik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
