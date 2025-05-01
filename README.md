@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @senkik LORENZO
--  I’m interested in coding, 
--  I’m currently learning statistics and data science
+- 👋 Hello
+-  Interested in coding, 
+-  I’m currently pursuing statistics and data science
 -  I’m looking to collaborate on data related projects 
 - 📫 How to reach me lorenzokibet105@gmail.com
 
